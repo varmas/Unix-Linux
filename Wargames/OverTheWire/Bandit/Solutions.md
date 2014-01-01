@@ -62,3 +62,7 @@ Level 10
 
 <pre><code>strings data.txt | grep "^=.*"
 </pre></code>
+
+Level 11
+
+<pre><code></pre></code>

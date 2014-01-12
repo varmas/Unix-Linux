@@ -40,7 +40,7 @@ Level 7
 
 <pre><code>cd /
 find -user bandit7 -group bandit6 -size 33c
-to get rid of the Permission denied messages do this instead:
+# to get rid of the Permission denied messages do this instead:
 find -user bandit7 -group bandit6 -size 33c 2>/dev/null
 </code></pre>
 

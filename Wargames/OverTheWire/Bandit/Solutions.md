@@ -9,7 +9,7 @@ Level 2
 <pre><code>cat /home/bandit1/-
 </code></pre>
 
-Lesson I learned : Absolute Path or relative path needed for unix commands on paths/filenames starting with '-' 
+Lesson I learned : Absolute Path or relative path needed for unix commands on paths/filenames starting with '-' (possibly any filename prefixed with special characters) 
 
 Level 3
 

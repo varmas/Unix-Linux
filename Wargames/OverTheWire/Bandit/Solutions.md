@@ -65,4 +65,61 @@ Level 10
 
 Level 11
 
+<pre><code>cat data.txt | base64 -d</pre></code>
+
+Lesson I learned : base64
+
+Level 12
+
+<pre><code>tr a-zA-Z n-za-mN-ZA-M < data.txt</pre></code>
+
+Lesson I learned : http://en.wikipedia.org/wiki/Rot13#Implementation
+
+Level 13
+
 <pre><code></pre></code>
+
+Level 14
+
+<pre><code></pre></code>
+
+Level 15
+
+<pre><code></pre></code>
+
+Level 16
+
+<pre><code></pre></code>
+
+Level 17
+
+<pre><code></pre></code>
+
+Level 18
+
+<pre><code></pre></code>
+
+Level 19
+
+<pre><code></pre></code>
+
+Level 20
+
+<pre><code></pre></code>
+
+Level 21
+
+<pre><code></pre></code>
+
+Level 22
+
+<pre><code></pre></code>
+
+Level 23
+
+<pre><code></pre></code>
+
+Level 24
+
+<pre><code></pre></code>
+
